@@ -19,13 +19,8 @@ const header = () => {
         <div className='me'>
           <img src={ME} alt= 'me' />
         </div>
-        {/* <div className='family'>
-          <img src={Family} alt= 'family' />
-        </div>
-        <div className='football'>
-          <img src={Football} alt= 'football' />
-        </div>
-        <a href='#contact' className='scroll__down'> Scroll Down </a> */}
+        
+        <a href='#contact' className='scroll__down'> Scroll Down </a> 
         </div>
 
         
