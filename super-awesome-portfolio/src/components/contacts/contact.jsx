@@ -23,22 +23,19 @@ const Contact = () => {
         <div className="contact__options">
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon' />
-            <h4>Email</h4>
-            <h5>Jonathancerruti@gmail.com</h5>
-            <a href="mailto:jonathancerruti@gmail.com">Send a message</a>
+            <h4>Phone</h4>
+            <h5>510 938-0568</h5>
+            
           </article>
+
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>Jonathancerruti@gmail.com</h5>
             <a href="mailto:jonathancerruti@gmail.com">Send a message</a>
           </article>
-          <article className='contact__option'>
-            <MdOutlineEmail className='contact__option-icon' />
-            <h4>Email</h4>
-            <h5>Jonathancerruti@gmail.com</h5>
-            <a href="mailto:jonathancerruti@gmail.com">Send a message</a>
-          </article>
+
+         
         </div>
 
         <form ref={form} onSubmit = { sendEmail }>
