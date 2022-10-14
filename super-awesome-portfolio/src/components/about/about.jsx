@@ -32,10 +32,18 @@ const About = () => {
             <small>20+ Projects Completed</small>
           </article>
         </div>
-         <p>A paragraph about me!lksandfklsdnvklscnv;lxcmvl;cxm /xc
-           nsdkvnxcklvnxcvxcvnxckvnkcxnvkxcvlzcxnv k.xcznvlkfndkvl
+         <p>Hi, I'm Jonathan Cerruti, a Full Stack Wed Developer Student in the MSU Coding Bootcamp. I am scheduled to complete my bootcamp in November 2022. 
+          When I'm not coding I love being with my wife Alex, and my son Magnus. I can be found at the Redwood National Park daily, or tearing it up with my son at local parks in Humboldt Count California.
+          I currently work as a Team Lead at Target in Eureka, Ca, where I run a dynamic team that's main goal is to recover the store from a 
+          day filled with many guests. On any given night I lead about 20 team members to recover the store and get it ready for another day of business.
+          My dream is to become a Software Engineer one day. My passion and determination will get me there and my work ethic will keep me there.
+          </p> 
+          <p1 className='hashtag'>#Husband #Father #HardWorker #WebDeveloper #LoveMyJourney
 
-         </p>
+         </p1>
+         <br/>
+         <br/>
+         <br/>
 
          <a href='#contact' className='btn btn-primary'>Contact Me</a>
       </div>

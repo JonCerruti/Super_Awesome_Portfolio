@@ -73,6 +73,9 @@
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
 }
+.about__content p1  {
+    color: var(--color-primary);
+}
 
 /* ======= Media Queries Medium Devices =====*/
 
