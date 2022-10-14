@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/super-awesome-portfolio/static/css/main.e365ceb3.css",
+    "main.js": "/super-awesome-portfolio/static/js/main.dd274d73.js",
+    "static/media/employee_tracker_example.gif": "/super-awesome-portfolio/static/media/employee_tracker_example.b31c09af052315fef14c.gif",
+    "static/media/project_1.png": "/super-awesome-portfolio/static/media/project_1.46c3df93e0ded55112cc.png",
+    "static/media/social_network_api.gif": "/super-awesome-portfolio/static/media/social_network_api.568ffc65dbc18713e02d.gif",
+    "static/media/family_man.jpg": "/super-awesome-portfolio/static/media/family_man.c7b088ce90849cd379b7.jpg",
+    "static/media/profile-pic.jpg": "/super-awesome-portfolio/static/media/profile-pic.913cc37b78c4bd41c164.jpg",
+    "static/media/My-first-project.png": "/super-awesome-portfolio/static/media/My-first-project.d64aca896cf861e65056.png",
+    "static/media/touchdown_daily.png": "/super-awesome-portfolio/static/media/touchdown_daily.c02dff7e5c5fda173894.png",
+    "static/media/readme-gen-img-3.png": "/super-awesome-portfolio/static/media/readme-gen-img-3.95f4766ccd57389387e0.png",
+    "static/media/Jon_resume _draft.pdf": "/super-awesome-portfolio/static/media/Jon_resume _draft.89d515394cc4c33564eb.pdf",
+    "index.html": "/super-awesome-portfolio/index.html",
+    "main.e365ceb3.css.map": "/super-awesome-portfolio/static/css/main.e365ceb3.css.map",
+    "main.dd274d73.js.map": "/super-awesome-portfolio/static/js/main.dd274d73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e365ceb3.css",
+    "static/js/main.dd274d73.js"
+  ]
+}
