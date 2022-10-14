@@ -3,6 +3,7 @@ import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
+import {GiSmartphone} from 'react-icons/gi'
 
 const Contact = () => {
   const form = useRef();
@@ -22,9 +23,11 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className='contact__option'>
-            <MdOutlineEmail className='contact__option-icon' />
+            <GiSmartphone className='contact__option-icon' />
             <h4>Phone</h4>
             <h5>510 938-0568</h5>
+            <h5>Text or Call Me</h5>
+
             
           </article>
 
