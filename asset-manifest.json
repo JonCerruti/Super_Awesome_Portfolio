@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Super_Awesome_Portfolio/static/css/main.e365ceb3.css",
-    "main.js": "/Super_Awesome_Portfolio/static/js/main.251a1934.js",
+    "main.js": "/Super_Awesome_Portfolio/static/js/main.5d999104.js",
     "static/media/employee_tracker_example.gif": "/Super_Awesome_Portfolio/static/media/employee_tracker_example.b31c09af052315fef14c.gif",
     "static/media/project_1.png": "/Super_Awesome_Portfolio/static/media/project_1.46c3df93e0ded55112cc.png",
     "static/media/social_network_api.gif": "/Super_Awesome_Portfolio/static/media/social_network_api.568ffc65dbc18713e02d.gif",
     "static/media/family_man.jpg": "/Super_Awesome_Portfolio/static/media/family_man.c7b088ce90849cd379b7.jpg",
     "static/media/profile-pic.jpg": "/Super_Awesome_Portfolio/static/media/profile-pic.913cc37b78c4bd41c164.jpg",
     "static/media/My-first-project.png": "/Super_Awesome_Portfolio/static/media/My-first-project.d64aca896cf861e65056.png",
+    "static/media/project_3.png": "/Super_Awesome_Portfolio/static/media/project_3.1c734a6616a2b5120843.png",
     "static/media/touchdown_daily.png": "/Super_Awesome_Portfolio/static/media/touchdown_daily.c02dff7e5c5fda173894.png",
-    "static/media/readme-gen-img-3.png": "/Super_Awesome_Portfolio/static/media/readme-gen-img-3.95f4766ccd57389387e0.png",
-    "static/media/Jon-Cerruti-resumedraft.pdf": "/Super_Awesome_Portfolio/static/media/Jon-Cerruti-resumedraft.a0ae366aff933565fdd1.pdf",
+    "static/media/Jon_Cerruti_Resume.pdf": "/Super_Awesome_Portfolio/static/media/Jon_Cerruti_Resume.ffc900efc2cf6fd1179c.pdf",
     "index.html": "/Super_Awesome_Portfolio/index.html",
     "main.e365ceb3.css.map": "/Super_Awesome_Portfolio/static/css/main.e365ceb3.css.map",
-    "main.251a1934.js.map": "/Super_Awesome_Portfolio/static/js/main.251a1934.js.map"
+    "main.5d999104.js.map": "/Super_Awesome_Portfolio/static/js/main.5d999104.js.map"
   },
   "entrypoints": [
     "static/css/main.e365ceb3.css",
-    "static/js/main.251a1934.js"
+    "static/js/main.5d999104.js"
   ]
 }
