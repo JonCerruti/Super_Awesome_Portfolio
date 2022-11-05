@@ -1,34 +1,34 @@
 import React from 'react'
 import './portfolio.css'
-import Project from '../../assets/images/My-first-project.png'
-import Project2 from '../../assets/images/project_1.png'
-import Project3 from '../../assets/images/touchdown_daily.png'
+import Project6 from '../../assets/images/My-first-project.png'
+import Project from '../../assets/images/project_1.png'
+import Project2 from '../../assets/images/touchdown_daily.png'
 import Project4 from '../../assets/images/social_network_api.gif'
 import Project5 from '../../assets/images/employee_tracker_example.gif'
-import Project6 from '../../assets/images/readme-gen-img-3.png'
+import Project3 from '../../assets/images/project_3.png'
 
 
 const data = [
   {
     id: 1,
     image: Project,
-    title: 'My First Code Refactor',
-    github:'https://github.com/JonCerruti/module-1/tree/alpha',
-    demo: 'https://joncerruti.github.io/module-1/'
-  },
-  {
-    id: 2,
-    image: Project2,
     title: 'About Your Birthday Group Project #1',
     github:'https://github.com/JonCerruti/About-Your-Birthday',
     demo: 'https://joncerruti.github.io/About-Your-Birthday/'
   },
   {
-    id: 3,
-    image: Project3,
+    id: 2,
+    image: Project2,
     title: 'Touchdown Daily Group Project #2',
     github:'https://github.com/Archer261/nfl-news',
     demo: 'https://morning-savannah-61110.herokuapp.com/'
+  },
+  {
+    id: 3,
+    image: Project3,
+    title: 'Pixel Block Party',
+    github:'https://github.com/jaronhadley/react_minecraft',
+    demo: 'https://pixel-block-party.herokuapp.com/'
   },
   {
     id: 4,
@@ -47,9 +47,9 @@ const data = [
   {
     id: 6,
     image: Project6,
-    title: 'Node.js README Generator',
-    github:'https://github.com/JonCerruti/README-Generator',
-    demo: 'https://drive.google.com/file/d/1kOvVLIhQvcYDKZPbrYzAW9XeK2bSvidc/view'
+    title: 'My First Code Refactor',
+    github:'https://github.com/JonCerruti/module-1/tree/alpha',
+    demo: 'https://joncerruti.github.io/module-1/'
   },
 ]
 
